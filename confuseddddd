@@ -1,0 +1,7 @@
+function sayHello(name) {
+  return 'This is a string with my name: ${name} '
+  
+}
+
+let Halimat = sayHello("Halimat")
+console.log(Halimat)
